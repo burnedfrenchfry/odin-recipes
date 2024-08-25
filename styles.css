@@ -1,0 +1,44 @@
+body {
+    background-color:lightgray;
+}
+
+body{
+    font-family: 'Courier New';
+}
+
+/* Fitting the images */
+
+.images2 {
+    text-align: center;
+}
+.images {
+    text-align: center;
+}
+
+.eggplant{
+    height: 500px;
+    width: auto;
+}
+
+.salmon {
+    height: 500px;
+    width: 500px;
+}
+/* Centering the headings and buttons */
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+.button {
+   text-align: center; 
+}
+
+
